@@ -1,4 +1,4 @@
-# Tk Notepad
+# Tkinter Notepad
 
 A simple notepad application built with Python and Tkinter.
 
